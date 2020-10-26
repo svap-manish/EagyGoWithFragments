@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#2680eb</color>
+    <color name="colorPrimaryDark">#2680eb</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorControlNormal">#c5c5c5</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorRed">#FF0000</color>
+    <color name="colorBackgroundWindow">#f9f8fe</color>
+    <color name="colorButtonFlatText">#1976d2</color>
+    <color name="tabIndicator">#808080</color>
+    <color name="color_black">#000000</color>
+    <color name="tabIndicatorActive">@color/colorPrimary</color>
+    <color name="colorText_3">#333333</color>
+    <color name="colorStatusPending">#ff1414</color>
+    <color name="colorStatusOnGoing">#e58b00</color>
+    <color name="colorStatusCompleted">#00cf00</color>
+    <color name="colorStatusUpcoming">#7441f5</color>
+    <color name="colorStatusCancelled">#00cf00</color>
+    <color name="colorEditTextBorder">#bfbfbf</color>
+    <color name="colorDivider">#e4e4e4</color>
+    <color name="colorText_1">#4f5962</color>
+    <color name="colorText_2">#666666</color>
+    <color name="colorText_4">#8e949a</color>
+    <color name="colorHint">#d9d9d9</color>
+</resources>
